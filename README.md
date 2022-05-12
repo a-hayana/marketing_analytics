@@ -5,6 +5,8 @@
 ## `Google Data Studio` | **Estudo de Caso 4** - Marketing Analytics Dashboard 
 ## `Brazilian E-Commerce Public Dataset by Olist` | Kaggle
 
-<img align="center" alt="" width="750" height="450" src="https://raw.githubusercontent.com/a-hayana/marketing_analytics/main/dashboard_ariane.png">
+<br>
+
+<img align="center" alt="" width="760" height="450" src="https://raw.githubusercontent.com/a-hayana/marketing_analytics/main/dashboard_ariane.png">
 
 Dados disponíveis em: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
